@@ -1,0 +1,9 @@
+#! /bin/life
+
+require success
+
+def main
+    internet.go()
+    best_website.start()
+    bank_account.profit()
+end
